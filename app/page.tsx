@@ -307,7 +307,7 @@ export default function RestaurantPage() {
                   <Phone className="h-6 w-6 text-amber-600 mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900 mb-2">Reservations</h3>
-                    <p className="text-gray-600">(555) 123-4567</p>
+                    <p className="text-gray-600">+234-903747394</p>
                   </div>
                 </div>
 
@@ -352,7 +352,7 @@ export default function RestaurantPage() {
                     <label className="block text-sm font-medium text-gray-700 mb-2">
                       Phone
                     </label>
-                    <Input type="tel" placeholder="(555) 123-4567" />
+                    <Input type="tel" placeholder="+234-903848392" />
                   </div>
                   
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
